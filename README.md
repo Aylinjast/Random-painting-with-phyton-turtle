@@ -2,9 +2,11 @@
 # Random Painting with Python Turtle 🎨
 
 **Remember drawing these random patterns as a kid?**
+
 Well, I did it again... but this time, I wrote some code for it! 
 
 A little nostalgia, a little Python, and a whole lot of randomness.
+
 This project recreates the joy of childhood random drawings using Python's Turtle graphics.
 
 ## 🛠 Built With
@@ -14,6 +16,7 @@ This project recreates the joy of childhood random drawings using Python's Turtl
 - A little bit of childhood nostalgia
 
 ## About the Project
+
 Random spirals, colorful stars, and playful patterns, all generated with code.
 
 Just a childhood pastime, reimagined through programming.
