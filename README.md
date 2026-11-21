@@ -1,3 +1,4 @@
+<img width="1481" height="944" alt="Screenshot 2026-11-21 150447" src="https://github.com/user-attachments/assets/d1be4ab5-8ea2-42e1-a64d-d906efb75fa9" />
 
 # Random Painting with Python Turtle 🎨
 
